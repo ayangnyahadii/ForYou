@@ -45,5 +45,3 @@ function nonFt() {document.getElementById('foto').style.display = "none";} funct
     if(a==text4.length){
     fotoKt();}
     }
-Footer
-© 2022 hdiiofficial
